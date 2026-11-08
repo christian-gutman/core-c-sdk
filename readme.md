@@ -8,4 +8,4 @@ This repository contains the **Core C SDK**, a centralized foundation shared acr
 * **Independent Builds:** Consuming projects embed the core code directly into their repository, removing the need for internet access or package managers during compilation.
 * **Clean CMake Linkage:** Seamlessly integrated into downstream build systems via CMake's `FetchContent` or local subdirectory mapping.
 
- 
+ This repo is Restrict pushes - Require a pull request before merging
