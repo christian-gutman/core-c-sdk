@@ -1,7 +1,6 @@
 #include "vfp_types.h" 
-
-//#include "../../strings/core/core_string.h"
-//#include "../../encoding/core/core_encoding.h"
+#include "core_encoding.h"
+#include "core_string.h"
 
 wchar_t *FoxToWChar(const char *ansiStr)
 {
